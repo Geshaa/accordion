@@ -1,11 +1,12 @@
 # accordion
 JavaScript accordion with minimal markup for for build systems.
 `
- 
 Accordion plugin v 1.0
 Jquery Required !
 
-**HTML MARKUP
+#HTML MARKUP
+
+```
 <section class="_js-accordion" data-animation-time="300" data-open-single="true" data-open-class="active">
     <div>
         <div data-click> Title 1</div>
@@ -21,7 +22,9 @@ Jquery Required !
     </div>
     .....
 </section>
+```
 
+#Description
 * _js-accordion             -> main element which will hold all the expandable elements.
 * data-open-class           -> class that will be added to active element title. If it is not present it will be added - active.
 * data-animation-time       -> time in miliseconds for animation of expanding and minimize.
