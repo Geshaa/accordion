@@ -1,8 +1,6 @@
-# accordion
-JavaScript accordion with minimal markup for for build systems.
-`
-Accordion plugin v 1.0
-Jquery Required !
+# Accordion
+JavaScript accordion with minimal markup for build complex systems.
+Jquery is Required for this plugin to work. This plugin is for developers who needs to make accordion, but they are restricted from markup which is come from back-end.
 
 #HTML MARKUP
 
